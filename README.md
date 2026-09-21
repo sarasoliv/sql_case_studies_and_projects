@@ -1,4 +1,4 @@
-# 📦 Sistema de Gerenciamento de Pedidos em PostgreSQL
+# 📦 Gestão de Pedidos em PostgreSQL
 
 🎓 **Projeto Acadêmico** | **SGBD:** PostgreSQL | **Linguagem:** SQL
 
