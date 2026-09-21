@@ -54,9 +54,8 @@ O foco da aplicação é garantir a integridade dos dados, aplicar regras de neg
 
 ## 🚀 Como Executar
 
-1. Abra o seu SGBD preferido (ex: **pgAdmin** ou **DBeaver**).
-2. Conecte-se ao **PostgreSQL**.
-3. Importe e execute o script SQL do projeto para criar o banco de dados `loja_pedidos`, popular as tabelas e rodar as consultas.
+1. Abra o **PostgreSQL**.
+3. Importe e execute o script SQL do projeto para criar o banco de dados `loja_pedidos`.
 
 ---
 
