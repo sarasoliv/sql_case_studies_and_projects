@@ -1,6 +1,3 @@
---archive name: sara_dossantosdeoliveira_modelo_fisico.sql
-
-
 --Etapa 1 — Criação do banco de dados
 CREATE DATABASE loja_pedidos;
 
