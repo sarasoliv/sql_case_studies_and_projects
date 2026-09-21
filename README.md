@@ -49,7 +49,7 @@ O foco da aplicação é garantir a integridade dos dados, aplicar regras de neg
 * Teste prático de deleção de registros isolados via chave primária.
 
 
-
+ 
 ---
 
 ## 🚀 Como Executar
