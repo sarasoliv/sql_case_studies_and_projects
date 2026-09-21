@@ -1,4 +1,4 @@
-# 📦 PostgreSQL Order Management System
+# 📦 Sistema de Gerenciamento de Pedidos em PostgreSQL
 
 🎓 **Projeto Acadêmico** | **SGBD:** PostgreSQL | **Linguagem:** SQL
 
